@@ -1,0 +1,127 @@
+body {
+  
+  
+ background-image: url('./tlo.png');
+  
+  
+  
+  
+  
+}
+
+#comments {
+opacity: 0.6;
+background: #022c79; 
+}
+
+
+#kolumna {
+
+opacity: 0.6;
+min-height: 150px;
+
+}
+#kolumna2 {
+background: #3362b7; 
+opacity: 0.6;
+min-height: 450px;
+border-style: none;
+}
+#kolumna3 {
+opacity: 0.8;
+min-height: 40px;
+width: 100%;
+}
+#kolumna4 {
+background: #022c79; 
+opacity: 0.8;
+min-height: 30px;
+width: 100%;
+float: left;
+}
+#formularz {
+width: 200px;
+
+}
+#conte {
+width: 300px;
+
+
+}
+#tlo {
+height: 250px;
+background-color: #3162bc;
+
+border-radius: 20px;
+}
+#tlo2 {
+overflow:hidden;
+min-height: 500px;
+width: 600px;
+
+
+
+}
+
+#odpo {
+margin-left: 13px;
+}
+#tlo3 {
+overflow:hidden;
+min-height: 200px;
+width: 600px;
+
+
+}
+#menu {
+
+background-color: #0000FF;
+
+}
+#str {
+width: 250px;
+float: left;
+min-height: 20px;
+
+}
+#str2 {
+width: 250px;
+float: left;
+
+}
+#gora {
+overflow:hidden;
+min-height: 300px;
+background-color: #3162FF;
+
+}
+#zdjecie {
+width: 300px;
+
+}
+#napis1 {
+opacity: 0.5;
+float:left;
+width: 60%;
+
+}
+#napis2 {
+opacity: 0.5;
+
+float:right;
+width: 40%;
+
+}
+#login {
+width: 80%;
+}
+span.reje {color: #e7df08;}
+span.name { color:#b1c92c;}
+span.form { color:#b1c92c;}
+span.form2 { color:#ded8bf; font-size: 16px;}
+span.kate {color:yellow; font-size: 16px;}
+span.menu {color:#ecda12; font-size: 16px;}
+span.blad {color:red; font-size: 15px; font-weight: bold;}
+span.sukces {color:#669d17; font-size: 15px; font-weight: bold;}
+a.menu2 {color:#db923d; font-size: 17px;}
+a.menu2:hover {color:#db923d; font-size: 18px;}
